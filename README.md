@@ -6,7 +6,7 @@
 
 
 ## 🚀 sobre mi
-yo soy un tec. sofware, Soy de El Salvador
+yo soy un tec. ingenieria en sofware, Soy de El Salvador
 
 • Techslack: html, css, php, js, angular fundamentos.
 
